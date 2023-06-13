@@ -7,5 +7,6 @@ public class myClass {
         return c;}
     public static void main(String[] args) {
         myMethod(3, 5);
+        myMethod(6, 7);
     }
 }
