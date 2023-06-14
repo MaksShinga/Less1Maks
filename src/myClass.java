@@ -1,12 +1,11 @@
 import sun.lwawt.macosx.CSystemTray;
 
 public class myClass {
-    int Year = 2023;
-    public static int myMethod(int a, int b){
+    int year = 2023;
+    public static int sumOfTwoNumbers(int a, int b){
         int c = a + b;
         return c;}
     public static void main(String[] args) {
-        myMethod(3, 5);
-        myMethod(6, 7);
+        sumOfTwoNumbers(3, 5);
     }
 }
