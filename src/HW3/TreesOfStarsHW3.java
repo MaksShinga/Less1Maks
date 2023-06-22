@@ -1,4 +1,6 @@
-public class TreesOfStars {
+package HW3;
+
+public class TreesOfStarsHW3 {
     public static void firstTreeOfStars() {
         int n = 5;
 

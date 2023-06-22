@@ -1,3 +1,5 @@
+package HW2;
+
 public class MyClass {
     int year = 2023;
     public static int sumOfTwoNumbers(int a, int b){

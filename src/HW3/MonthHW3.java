@@ -1,3 +1,5 @@
+package HW3;
+
 public class MonthHW3 {
     public static void getDaysInMonth(int monthNumber) {
         switch (monthNumber) {
